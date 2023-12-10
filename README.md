@@ -1,4 +1,3 @@
-# Math
 My implementation of some mathematical objects such as:
 # Linear recurrent sequence in bit representation as well as in byte representation
 # A Boolean Function class
